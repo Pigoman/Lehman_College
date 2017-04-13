@@ -30,3 +30,6 @@ Create a website using HTML, CSS and Javascript that follows these guidelines:
 	Use Javascript for your form to assure the required input is not empty/invalid
 	1 alert() when the form is not filled correctly
 	Modify the style of invalid input so the user will see it and correct their input
+
+Learning_Python
+	Miscellaneous code from working in class as well as homework assignments
