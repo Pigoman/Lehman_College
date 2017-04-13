@@ -1,0 +1,123 @@
+@media only screen and (max-width: 699px){
+	body{
+		background-color: lightblue;
+		font-family: sans-serif;
+	}
+}
+
+@media only screen and (min-width: 700px){
+	body{
+		background-color: mistyrose;
+		font-family: Ubuntu, Comic Sans MS, Helvetica, sans-serif; 
+	}
+}
+
+header{
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	background: #FFAAAA;
+}
+
+header img{
+	float: left;
+	max-width: 5%;
+	max-height: 5%;
+	border-radius: 100%;
+}
+
+header nav ul li{
+	list-style-type: none;
+	text-align: center;
+	display: inline;
+	padding: 2em;
+}
+
+header a:link{
+	color: red;
+	text-decoration: none;
+}
+
+header a:visited{
+	color: red;
+	text-decoration: none;
+}
+
+header a:hover{
+	color: black;
+}
+
+header a:active{
+}
+
+main{
+	margin-top: 100px;
+}
+
+main img{
+	max-width: 50%;
+	max-height: 50%;
+	border-radius: 25%;
+}
+
+h1{
+	font-size: 50px;
+}
+
+h2{
+	font-size: 30px;
+}
+
+h1, h2{
+	color: #770000
+}
+
+table{
+	width: 30%;
+	margin: auto;
+}
+
+form{
+	margin-right: 35%;
+	margin-left: 35%;
+}
+
+footer{
+	margin-top: 50px;
+	margin-bottom: 0px;
+	background-color: #FFAAAA;
+	font-style: italic;
+	font-size: 12px;
+}
+
+#STORY{
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+.TA{
+	background-color: #CCCCCC;
+}
+
+.TB{
+	background-color: #EEEEEE;
+}
+
+.smileyLI{
+	list-style-type: none;
+	text-align: center;
+}
+
+.right{
+	text-align: right;
+}
+
+.center{
+	text-align: center;
+}
+
+.space{
+	margin-top: 50px;
+	margin-bottom: 100px;
+}

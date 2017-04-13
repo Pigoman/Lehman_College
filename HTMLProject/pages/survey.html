@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<title>Videos</title>
+		<meta name="author" content="Sean Curran"/>
+		<meta name="keywords" content="example,test,classwork,school"/>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" type="text/css" href="../css/DefaultStyle.css"/>
+		<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
+		<script type="text/javascript" src="../scripts/poll.js"></script>
+	</head>
+	
+	<body>
+	
+		<header>
+			<p>
+				<img src="../images/rearBumper.jpg" alt="Rear Bumper"/>
+			</p>
+			<nav class="right">
+				<ul>
+					<li><a href="../index.html">HOME</a></li>
+					<li><a href="videos.html">VIDEOS</a></li>
+				</ul>
+			</nav>
+			
+		</header>
+		
+		
+		
+		<main>
+			
+			<section id="TOP" class="center">
+				<h1>What do YOU Think?</h1>
+			</section>
+			
+			<section id="POLL">
+				<form id="pollForm" class="center space">
+					<input type="radio" name="poll" id="awesome" value="2">Wow that car is awesome!<br>
+					<input type="radio" name="poll" id="terrible" value="1">Dude that thing is terrible.<br>
+					<input type="radio" name="poll" id="dontcare" value="0">I really could not care less.<br>
+					<input type="button" id="submit" value="Submit" onclick="getData();"><br>
+				</form>
+				
+				<ul id="pollResults">
+					<li class="smileyLI" id="good"></li>
+					<li class="smileyLI" id="bad"></li>
+					<li class="smileyLI" id="idc"></li>
+				</ul>
+			</section>
+			
+		</main>
+		
+		<footer class ="center">
+			250 West Bedford Park Blvd. Bronx, NY 10468 Room Gillet 333<br/>
+			&copy;2017 CMP342 Sean Curran
+		</footer>
+		
+	</body>
+	
+</html>
