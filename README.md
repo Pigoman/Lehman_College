@@ -32,4 +32,5 @@ Create a website using HTML, CSS and Javascript that follows these guidelines:
 	Modify the style of invalid input so the user will see it and correct their input
 
 Learning_Python
+
 	Miscellaneous code from working in class as well as homework assignments
