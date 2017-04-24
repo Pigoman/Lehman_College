@@ -1,0 +1,10 @@
+A file is
+just a bunch of
+characters
+stored on disk.
+Another line
+beginning with
+a letter called
+a.
+Just filling the file with
+a bunch of random text
