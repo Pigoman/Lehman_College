@@ -1,0 +1,26 @@
+from wikipedia:
+
+Commuter Rail
+NJ Transit, the second busiest commuter railroad
+in the United States as of 2015, is operated by the NJ
+Transit Corporation, an agency of the state of NJ,in
+conjunction with Metro-North Railroad and Amtrak. It has
+major terminals at Pennsylvania Station in Manhattan,
+Hoboken Terminal, and Newark Pennsylvania Station, with
+a major transfer point at Secaucus Junction in Hudson
+County, NJ. NJ Transit also operates the Hudson-Bergen
+Light Rail through Hudson County, the Newark City Subway,
+and the River Line that runs along tracks shared with
+Conrail Shared Assets Operations from Trenton to Camden
+in southern NJ. NJ Transit also has commuter buses operating
+in and out of Manhattan.
+
+Metro-North Railroad (MNRR), the third busiest commuter
+railroad in the United States as of 2015, is also operated
+by the MTA, in conjunction with the CT Department of
+Transportation and NJ Transit. Its major terminal is Grand
+Central Terminal. Trains on the Port Jervis Line and Pascack
+Valley Line terminate at Hoboken Terminal in Hoboken, NJ;
+commuters may transfer at either Secaucus Junction for NJ Transit
+trains to NY Pennsylvania Station or at Hoboken Terminal for
+PATH trains into Manhattan.
