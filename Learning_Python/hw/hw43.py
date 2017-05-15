@@ -6,6 +6,7 @@ sean = Turtle()
 win = Screen()
 
 def drawGrid(size):
+	sean.setheading(0)
 	for i in range(size + 1):
 		sean.penup()
 		sean.goto(0, i)
@@ -38,15 +39,17 @@ def drawCheckers(size):
 				sean.right(90)
 			sean.end_fill()
 			sean.goto(j, i)
+	sean.goto(0, 0)
 
 def main():
 	size = int(input("Enter a size for a checkered flag: "))
 	upperBound = size * 2
-	win.setworldcoordinates(-0.5, -0.5, upperBound + 0.5, upperBound + 0.5)
+	win.setworldcoordinates(-0.5, -0.5, size + 0.5, size + 0.5)
 	sean.speed(0)
 	sean.color("black")
-	drawGrid(upperBound)
-	drawCheckers(upperBound)
+	drawGrid(size)
+	drawCheckers(size)
+	drawGrid(size)
 	
 	win.exitonclick()
 
