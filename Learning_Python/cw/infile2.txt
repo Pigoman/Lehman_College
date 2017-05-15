@@ -1,0 +1,9 @@
+Hello there
+this is classwork for my Python class
+I am checking this file for each
+occurance of the word
+Python
+with a capital P
+python
+PYTHON 
+Python Python Python
