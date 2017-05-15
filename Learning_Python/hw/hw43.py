@@ -43,7 +43,6 @@ def drawCheckers(size):
 
 def main():
 	size = int(input("Enter a size for a checkered flag: "))
-	upperBound = size * 2
 	win.setworldcoordinates(-0.5, -0.5, size + 0.5, size + 0.5)
 	sean.speed(0)
 	sean.color("black")
